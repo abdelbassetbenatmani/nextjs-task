@@ -32,6 +32,7 @@ To run this project, you will need to add the following environment variables to
 - Validation data before submitting
 - Allow updating data 
 - Show data with nice Card
+- Combobox with search to facilitate the search for Sector
 
 
 ## Tech Stack
