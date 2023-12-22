@@ -1,5 +1,4 @@
 import AddUser from "@/components/User/AddUser";
-import { ComboboxDemo } from "@/components/test/test";
 
 import { getAllSectors } from "@/lib/queries";
 import Image from "next/image";
