@@ -70,4 +70,4 @@ model Sectors {
 
 ## Note
 
-All the sectors data is in a fixed folder and it was used to add all the values using the file (AddAllSector.tsx)
+All the sectors data is in a constant folder and it was used to add all the values using the file (AddAllSector.tsx)
